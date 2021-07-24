@@ -1,0 +1,14 @@
+C:\Users\zeklb\source\repos\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\zeklb\source\repos\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\zeklb\source\repos\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\zeklb\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.csprojAssemblyReference.cache
+C:\Users\zeklb\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\zeklb\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\zeklb\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\zeklb\Desktop\opet\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\zeklb\Desktop\opet\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\zeklb\Desktop\opet\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\zeklb\Desktop\opet\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+C:\Users\zeklb\Desktop\opet\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\zeklb\Desktop\opet\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\zeklb\Desktop\opet\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
